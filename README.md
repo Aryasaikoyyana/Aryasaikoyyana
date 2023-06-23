@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Aryasaikoyyana
+- 👋 ARYA SAI KOYYANA
 - 👀 MIT MANIPAL
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- INFORMATION TECHNOLOGY
+- C,C++,JAVA,DSA
+- 📫 aryak613422@gmail.com
+- website:https://aryak613422.wixsite.com/woyoo
+- ceritifications:google project management
+- google IT support
+- amazon web services
+- meta backend developer
 
 <!---
 Aryasaikoyyana/Aryasaikoyyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
